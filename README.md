@@ -1,2 +1,3 @@
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/306787329975123969?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/306787329975123969?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/306787329975123969) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/306787329975123969)
 ![Stats](https://github-readme-stats.vercel.app/api?username=adrianrosh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianrosh&layout=compact&theme=radical)
